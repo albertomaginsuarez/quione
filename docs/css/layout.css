@@ -61,8 +61,11 @@
 }
 
 body{
-   background-color: #f3f5f9;
+   background: #0f0f0f;
 }
+
+
+
 
 .wrapper{
   display: flex;
