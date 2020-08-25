@@ -25,11 +25,15 @@
   filter: grayscale(100%);
 }
 .box .leftside{
-  opacity: 0.5;
+  opacity: 1;
+}
+
+.encabezado{
+  color:white;
 }
 
 .box .rightside{
-  opacity: 0.5;
+  opacity: 1;
 }  
 
 .box:hover .leftside, .box:hover .rightside{
