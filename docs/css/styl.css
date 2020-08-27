@@ -633,7 +633,7 @@ html [class*='section-'].section-bottom-0 {
 	section.section-lg:first-of-type,
 	section.section-xl:first-of-type,
 	section.section-xxl:first-of-type {
-		padding-top: 80px;
+		padding-top: 360px;
 	}
 }
 
@@ -5503,7 +5503,7 @@ html.tablet .ui-to-top {
 }
 
 html.rd-navbar-fixed-linked .page {
-	padding-top: 56px;
+	padding-top: 0px;
 }
 
 /*
