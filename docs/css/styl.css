@@ -627,13 +627,23 @@ html [class*='section-'].section-bottom-0 {
 	padding-top: 50px;
 }
 
+
+	section.section-sm:first-of-type,
+	section.section-md:first-of-type,
+	section.section-lg:first-of-type,
+	section.section-xl:first-of-type,
+	section.section-xxl:first-of-type {
+		padding-top: 100px;
+	}
+
+
 @media (max-width: 991.98px) {
 	section.section-sm:first-of-type,
 	section.section-md:first-of-type,
 	section.section-lg:first-of-type,
 	section.section-xl:first-of-type,
 	section.section-xxl:first-of-type {
-		padding-top: 331px;
+		padding-top: 580px;
 	}
 }
 
