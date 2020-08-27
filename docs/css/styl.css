@@ -633,7 +633,7 @@ html [class*='section-'].section-bottom-0 {
 	section.section-lg:first-of-type,
 	section.section-xl:first-of-type,
 	section.section-xxl:first-of-type {
-		padding-top: 360px;
+		padding-top: 0px;
 	}
 }
 
@@ -2602,7 +2602,7 @@ input:-webkit-autofill ~ .form-validation {
 	padding-left: 0;
 	font-size: 14px;
 	font-weight: 400;
-	line-height: 31px;
+	color: white;
 	pointer-events: none;
 	text-align: left;
 	z-index: 9;
@@ -3540,7 +3540,7 @@ input:-webkit-autofill ~ .form-validation {
 @media (min-width: 768px) {
 	.footer-modern-content {
 		padding-top: 80px;
-		padding-bottom: 80px;
+		padding-bottom: 190px;
 	}
 }
 
@@ -3875,7 +3875,7 @@ html:not(.lt-ie10) .not-animated {
 */
 .ui-to-top {
 	position: fixed;
-	right: -70px;
+	right: -53px;
 	bottom: 125px;
 	z-index: 50;
 	width: auto;
