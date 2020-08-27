@@ -1471,6 +1471,13 @@ p [style*='max-width'] {
 	text-transform: uppercase;
 }
 
+.title-decorative2 {
+	position: relative;
+	text-transform: uppercase;
+	font-size: 38px !important;
+	cursor:pointer;
+}
+
 .title-decorative-letter {
 	position: absolute;
 	left: 0.02em;
