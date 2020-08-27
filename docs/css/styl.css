@@ -590,7 +590,7 @@ h3 + .footer-social-list-2 {
 
 @media (min-width: 576px) {
 	.first-section-custom {
-		margin-top: -280px;
+		margin-top: 0px;
 	}
 }
 
