@@ -1489,8 +1489,8 @@ p [style*='max-width'] {
 }
 
 .title-decorative-letter {
-	position: absolute;
-	left: 0.02em;
+	position: absolute;	
+	left: 1.45em;
 	bottom: -0.13em;
 	font-size: 5.625em;
 	line-height: 1;
