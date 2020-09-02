@@ -1476,6 +1476,14 @@ p [style*='max-width'] {
 	color: #ffffff;
 }
 
+.img-circle {
+	-webkit-border-radius: 500px;
+	-moz-border-radius: 500px;
+	border-radius: 500px;	
+	border: double 5px #FF124E;
+	}
+	
+
 .title-decorative {
 	position: relative;
 	text-transform: uppercase;
@@ -1499,8 +1507,7 @@ p [style*='max-width'] {
 }
 
 .title-decorative-word {
-	display: block;
-	padding: .625em .625em .625em 2.2em;
+	display: block;	
 }
 
 .ie-10 .title-decorative-letter,
