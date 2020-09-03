@@ -1480,8 +1480,14 @@ p [style*='max-width'] {
 	-webkit-border-radius: 500px;
 	-moz-border-radius: 500px;
 	border-radius: 500px;	
-	border: double 5px #FF124E;
+	border: double 5px #FBAE17;
 	}
+	.img-circle2 {
+		-webkit-border-radius: 500px;
+		-moz-border-radius: 500px;
+		border-radius: 500px;	
+		border: double 5px #FF124E;
+		}
 	
 
 .title-decorative {
